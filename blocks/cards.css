@@ -20,9 +20,6 @@
   display: flex;
   color: #000;
 }
-/*.cards__footer-label {
-  margin: 25px 28px 25px 20px;
-}*/
 .yosmite {
   margin: 25px 28px 25px 20px;
 }
@@ -47,9 +44,7 @@
   border: none;
   padding: 0;
 }
-/*.visible-checkbox {
-  vertical-align: middle;
-}*/
+
 .cards__capture {
   text-overflow: ellipsis;
   overflow: hidden;
