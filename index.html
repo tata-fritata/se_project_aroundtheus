@@ -4,8 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./style.css" />
-    <link rel="stylesheet" href="./vendor/normalize.css" />
+    <link rel="stylesheet" href="./pages/style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -17,15 +16,14 @@
   <body class="page">
     <div class="page__content">
       <header class="header">
-        <img class="header__vector" src="./images/header__vector.png" />
-        <img class="header__line" src="./images/Line.svg" />
+        <img class="header__logo" src="./images/header__vector.png" />
       </header>
       <section class="profile">
         <img class="profile__avatar" src="./images/jacques-cousteau.svg" />
         <div class="profile__description">
           <div class="profile__title">
-            Jacques Cousteau<span class="profile__edit"
-              ><img src="./images/Edit Button.png"
+            Jacques Cousteau<span
+              ><img class="profile__edit" src="./images/Edit Button.png"
             /></span>
           </div>
           <p class="profile__subtitle">Explorer</p>
@@ -42,14 +40,10 @@
             alt="yosemite-valley"
           />
           <div class="cards__footer">
-            <label for="valley" class="cards__footer-label"
-              >Yosemite Valley
-              <input type="checkbox" class="heart" name="heart" id="valley" />
-              <span class="visible-checkbox"
-                ><img src="./images/heart.png"
-              /></span>
-            </label>
-            <!--<button class="heart" type="button"></button>-->
+            <p class="cards__capture yosmite">Yosmite Valley</p>
+            <button class="heart" type="button">
+              <img src="./images/heart.png" />
+            </button>
           </div>
         </div>
         <div class="cards__content">
@@ -113,23 +107,9 @@
             </button>
           </div>
         </div>
-        <!--<img class="cards__card1" src="./images/yosemite-valley.svg" />
-        <img class="cards__rectangle1" src="./images/Rectangle.png" />
-        <img class="cards__card2" src="./images/lake-louise.svg" />
-        <img class="cards__rectangle2" src="./images/Rectangle.png" />
-        <img class="cards__card3" src="./images/bald-mountains.png" />
-        <img class="cards__rectangle3" src="./images/Rectangle.png" />
-        <img class="cards__card4" src="./images/latemar.png" />
-        <img class="cards__rectangle4" src="./images/Rectangle.png" />
-        <img class="cards__card5" src="./images/vanoise-national-park.png" />
-        <img class="cards__rectangle5" src="./images/Rectangle.png" />
-        <img class="cards__card6" src="./images/lago-di-braies.png" />
-        <img class="cards__rectangle6" src="./images/Rectangle.png" />-->
       </section>
 
-      <footer class="footer">
-        <p class="footer__text">© 2022 Around The U.S.</p>
-      </footer>
+      <footer class="footer">&copy;© 2022 Around The U.S.</footer>
     </div>
   </body>
 </html>

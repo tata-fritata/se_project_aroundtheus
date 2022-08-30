@@ -1,0 +1,56 @@
+.cards {
+  display: grid;
+  margin: 0 200px auto;
+  grid-template-columns: repeat(auto-fit, minmax(282px, 1fr));
+  column-gap: 17px;
+  row-gap: 20px;
+}
+.cards__content {
+  width: 282px;
+  height: 361px;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.cards__footer {
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  color: #000;
+}
+/*.cards__footer-label {
+  margin: 25px 28px 25px 20px;
+}*/
+.yosmite {
+  margin: 25px 28px 25px 20px;
+}
+.lake {
+  margin: 25px 79px 25px 20px;
+}
+.bald {
+  margin: 25px 34px 25px 20px;
+}
+.latemar {
+  margin: 25px 121px 25px 20px;
+}
+.vanoise {
+  margin: 25px 2px 25px 20px;
+  width: 219px;
+}
+.lago {
+  margin: 25px 54px 25px 20px;
+}
+.heart {
+  background-color: #fff;
+  border: none;
+  padding: 0;
+}
+/*.visible-checkbox {
+  vertical-align: middle;
+}*/
+.cards__capture {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
