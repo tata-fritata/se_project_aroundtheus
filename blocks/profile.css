@@ -22,10 +22,14 @@
   line-height: 48px;
   text-overflow: ellipsis;
   overflow: hidden;
+  margin: 0;
 }
 .profile__subtitle {
+  font-weight: 400;
   font-size: 18px;
   line-height: 22px;
+  margin-top: 16px;
+  margin-bottom: 24.75px;
 }
 .profile__button {
   width: 150px;

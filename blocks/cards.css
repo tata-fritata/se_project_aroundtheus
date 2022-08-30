@@ -20,33 +20,20 @@
   display: flex;
   color: #000;
 }
-.yosmite {
-  margin: 25px 28px 25px 20px;
-}
-.lake {
-  margin: 25px 79px 25px 20px;
-}
-.bald {
-  margin: 25px 34px 25px 20px;
-}
-.latemar {
-  margin: 25px 121px 25px 20px;
-}
-.vanoise {
-  margin: 25px 2px 25px 20px;
-  width: 219px;
-}
-.lago {
-  margin: 25px 54px 25px 20px;
-}
 .heart {
   background-color: #fff;
   border: none;
   padding: 0;
+  margin-right: 30px;
 }
 
 .cards__capture {
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
+  flex: 1;
+  margin-left: 20px;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
 }
