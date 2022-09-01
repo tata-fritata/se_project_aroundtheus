@@ -46,17 +46,7 @@
   border: #545454 2px solid;
   color: #545454;
 }
-/*.profile__plus-sign {
-  width: 22px;
-  height: 22px;
-  align-items: center;
-  margin: auto;
-  background-image: url(../images/Vector.png);
-}*/
 
-.profile__plus-sign:hover {
-  color: #545454;
-}
 .profile__edit {
   width: 24px;
   height: 24px;
