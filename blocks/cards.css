@@ -36,3 +36,11 @@
   font-size: 24px;
   line-height: 29px;
 }
+@media screen and (max-width: 500px) {
+  .cards {
+    grid-template-columns: 1fr;
+    grid-template-rows: 6;
+    max-width: calc(100% - 38px);
+    margin: auto;
+  }
+}
