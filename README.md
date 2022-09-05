@@ -31,8 +31,6 @@ https://tata-fritata.github.io/se_project_aroundtheus/
 - Media queries
 - Adaptive Web Design screen resolution 1280px
 
-<img src="images/full-size.png" width="635">
-
 - Adaptive Web Design screen resolution 900px
 
 ![](images/size900.png)
