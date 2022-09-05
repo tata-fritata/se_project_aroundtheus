@@ -108,10 +108,11 @@
     line-height: 17px;
     margin-top: 14px;
     margin-bottom: 36px;
-    max-width: 282px;
+    max-width: 250px;
   }
   .profile__button {
     width: 100%; /* the button will occupy all avalible space*/
+    margin: 0;
   }
   .profile__vector {
     width: 16px;
@@ -122,7 +123,7 @@
     line-height: 27px;
     text-align: center;
     padding: 0;
-    max-width: 282px;
+    max-width: 250px;
   }
   .profile__description-title {
     padding-top: 26.25px;
