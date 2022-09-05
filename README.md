@@ -18,11 +18,7 @@ https://tata-fritata.github.io/se_project_aroundtheus/
 
 - This project is made using Figma designe.
 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 8dc6e46b88cdeb6c8e192f2578d038bbac068f4d
 ![](images/figma1280.png)
 ![](images/figma320.png)
 
@@ -36,14 +32,14 @@ https://tata-fritata.github.io/se_project_aroundtheus/
 - Media queries
 - Adaptive Web Design screen resolution 1280px
 
-<<<<<<< HEAD
+
 - Adaptive Web Design screen resolution 900px
 
 ![](images/size900.png)
 
 - Adaptive Web Design screen resolution 320px
 
-=======
+
 <img src="images/full-size.png" width="635">
 
 
@@ -57,6 +53,4 @@ https://tata-fritata.github.io/se_project_aroundtheus/
 - Adaptive Web Design screen resolution 320px
 
 
-
->>>>>>> 8dc6e46b88cdeb6c8e192f2578d038bbac068f4d
 ![](images/size320.png)
