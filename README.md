@@ -18,6 +18,9 @@ https://tata-fritata.github.io/se_project_aroundtheus/
 
 - This project is made using Figma designe.
 
+![](images/figma1280.png)
+![](images/figma320.png)
+
 ## Project features
 
 - Semantic HTML5
@@ -25,3 +28,15 @@ https://tata-fritata.github.io/se_project_aroundtheus/
 - Positioning
 - Flat BEM
 - Grid
+- Media queries
+- Adaptive Web Design screen resolution 1280px
+
+<img src="images/full-size.png" width="635">
+
+- Adaptive Web Design screen resolution 900px
+
+![](images/size900.png)
+
+- Adaptive Web Design screen resolution 320px
+
+![](images/size320.png)
