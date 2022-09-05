@@ -11,7 +11,7 @@
   color: #545454;
   padding-top: 67px;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 595px) {
   .footer__copywrite {
     font-size: 14px;
     line-height: 17px;

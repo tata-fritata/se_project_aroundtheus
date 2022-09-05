@@ -21,7 +21,7 @@
   align-items: center;
 }
 .profile__title {
-  max-width: 880px;
+  max-width: 400px;
   font-weight: 500;
   font-size: 42px;
   line-height: 48px;
@@ -39,7 +39,7 @@
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
-  max-width: 880px;
+  max-width: 240px;
 }
 .profile__button {
   width: 150px;
@@ -76,7 +76,6 @@
   .profile__title {
     text-align: center;
     white-space: nowrap;
-    max-width: 600px;
   }
   .profile {
     margin: 0 auto;
